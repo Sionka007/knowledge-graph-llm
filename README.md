@@ -21,6 +21,7 @@ pip install -r requirements.txt
 2. Ustawienie zmiennych środowiskowych
 
 HUGGINGFACE_TOKEN=twoj_token_huggingface
+
 GOOGLE_API_KEY=twoj_klucz_google_api
 
 3. uruchomienie aplikacji 
