@@ -1,0 +1,544 @@
+{
+  "Albert Einstein": [
+    {
+      "url": "http://www.einstein.yu.edu/",
+      "detailedDescription": {
+        "articleBody": "The Albert Einstein College of Medicine is a private medical school in New York City. Founded in 1953, Einstein is an independent degree-granting institution within the Montefiore Einstein Health System.\nEinstein hosts MD, PhD, and masters programs. ",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://en.wikipedia.org/wiki/Albert_Einstein_College_of_Medicine"
+      },
+      "name": "Albert Einstein College of Medicine",
+      "@type": [
+        "CollegeOrUniversity",
+        "Thing",
+        "Place",
+        "Corporation",
+        "EducationalOrganization",
+        "Organization"
+      ],
+      "description": "Private school in the Bronx, New York",
+      "@id": "kg:/m/01vc4r"
+    },
+    {
+      "detailedDescription": {
+        "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+        "articleBody": "Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics. ",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+      },
+      "url": "http://einstein.biz/",
+      "name": "Albert Einstein",
+      "description": "Theoretical physicist",
+      "@type": [
+        "Person",
+        "Thing"
+      ],
+      "@id": "kg:/m/0jcx",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head.jpg",
+        "contentUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwBhZ_ZXUdfW5M_JpXdjALYKQvRCHxpBPPPJ_jEB4iQVNqVZZ"
+      }
+    },
+    {
+      "name": "Albert Einstein High School",
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://en.wikipedia.org/wiki/Albert_Einstein_High_School",
+        "articleBody": "Albert Einstein High School is a four-year public high school in Kensington, Maryland, United States. It first opened in 1962 and is named after the German-born physicist Albert Einstein. It is part of the Montgomery County Public Schools system."
+      },
+      "@id": "kg:/m/0bhwvm",
+      "@type": [
+        "Place",
+        "Thing",
+        "School",
+        "EducationalOrganization",
+        "Organization"
+      ],
+      "description": "Public school in Kensington, Maryland",
+      "url": "http://www.montgomeryschoolsmd.org/schools/einsteinhs/"
+    },
+    {
+      "@id": "kg:/m/057p2p",
+      "image": {
+        "contentUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUjXv2B7hZA-_4kUJDgeG3fjwfKSIK0RvQXRL0yMhQvV3PRZB7",
+        "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Memorial,_Washington_DC_1.jpg"
+      },
+      "name": "Albert Einstein Memorial",
+      "@type": [
+        "Place",
+        "Thing",
+        "VisualArtwork",
+        "TouristAttraction"
+      ],
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://en.wikipedia.org/wiki/Albert_Einstein_Memorial",
+        "articleBody": "The Albert Einstein Memorial is a monumental bronze statue by sculptor Robert Berks, depicting Albert Einstein seated with manuscript papers in hand. "
+      },
+      "description": "Statue by Robert Berks"
+    },
+    {
+      "@id": "kg:/m/04xmkm",
+      "@type": [
+        "Thing",
+        "Person"
+      ],
+      "url": "http://www.einstein-website.de/biographies/einsteinhansalbert_content.html",
+      "description": "Swiss-American engineer ‧ Albert Einstein's son",
+      "name": "Hans Albert Einstein",
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Hans Albert Einstein was a Swiss-American engineer, the second child and first son of physicists Albert Einstein and Mileva Marić. He was a long-time professor of hydraulic engineering at the University of California, Berkeley.\nEinstein was widely recognized for his research on sediment transport. ",
+        "url": "https://en.wikipedia.org/wiki/Hans_Albert_Einstein"
+      }
+    },
+    {
+      "url": "http://www.consejoculturalmundial.org/awards/texto_science.php",
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "The Albert Einstein World Award for Science is an annual award given by the World Cultural Council \"as a means of recognition and encouragement for scientific and technological research and development\", with special consideration for researches which \"have brought true benefit and wellbeing to mankind\". ",
+        "url": "https://en.wikipedia.org/wiki/Albert_Einstein_World_Award_of_Science"
+      },
+      "description": "Award",
+      "name": "Albert Einstein World Award of Science",
+      "@type": [
+        "Thing"
+      ],
+      "@id": "kg:/m/025v4b"
+    },
+    {
+      "description": "Book by Banesh Hoffmann",
+      "@id": "kg:/m/0b6mqkw",
+      "@type": [
+        "Thing",
+        "Book"
+      ],
+      "detailedDescription": {
+        "url": "https://en.wikipedia.org/wiki/Albert_Einstein:_Creator_and_Rebel",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Albert Einstein: Creator and Rebel is a 1972 book by Banesh Hoffmann with the collaboration of Helen Dukas. The book is a biography of Albert Einstein, including both his personal and academic life with references to specific events and people. "
+      },
+      "name": "Albert Einstein: Creator and Rebel"
+    },
+    {
+      "@type": [
+        "BookSeries",
+        "Thing"
+      ],
+      "description": "Literary series",
+      "@id": "kg:/m/04wg3pt",
+      "name": "The Collected Papers of Albert Einstein"
+    },
+    {
+      "name": "Albert Einstein",
+      "description": "Song by Ellis Paul",
+      "@type": [
+        "Thing"
+      ],
+      "@id": "kg:/g/1q5jbb8nl"
+    },
+    {
+      "@type": [
+        "Book",
+        "Thing"
+      ],
+      "name": "Albert Einstein",
+      "@id": "kg:/m/0c5f9tg"
+    }
+  ],
+  "Taylor Swift": [
+    {
+      "url": "http://www.taylorswift.com/",
+      "@id": "kg:/m/0dl567",
+      "detailedDescription": {
+        "url": "https://en.wikipedia.org/wiki/Taylor_Swift",
+        "articleBody": "Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting, artistic versatility, and cultural impact, Swift is one of the world's best-selling artists, the highest-grossing touring artist, the richest female musician, and the first billionaire with music as the main source of income.\n",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+      },
+      "@type": [
+        "Person",
+        "Thing"
+      ],
+      "image": {
+        "url": "https://pt.wikipedia.org/wiki/Ficheiro:191125_Taylor_Swift_at_the_2019_American_Music_Awards_(cropped).png",
+        "contentUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnsjOArwgD-bhyRslj_Qa7Z2tIPLRFU3VnEuLr1ybcyned49Pt"
+      },
+      "name": "Taylor Swift",
+      "description": "American singer and songwriter"
+    },
+    {
+      "url": "http://inzayn.com/",
+      "@id": "kg:/m/0h3cltm",
+      "detailedDescription": {
+        "articleBody": "Zain Javadd \"Zayn\" Malik is an English singer-songwriter. He auditioned as a solo contestant for the British music competition television series The X Factor in 2010, where he ended up being a part of five-piece boy band One Direction, which went on to become one of the best-selling boy bands of all time. ",
+        "url": "https://en.wikipedia.org/wiki/Zayn_Malik",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+      },
+      "@type": [
+        "Person",
+        "Thing"
+      ],
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/File:Zayn_Malik_April_2014.png",
+        "contentUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ91Nks50itBbaaNe_6GZw75-joN-HRLTY-s-qNmXKAIw7r_Lb"
+      },
+      "name": "Zayn",
+      "description": "English singer-songwriter"
+    },
+    {
+      "name": "Taylor Swift",
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Taylor Swift is the debut studio album by the American singer-songwriter Taylor Swift. It was released in North America on October 24, 2006, and reissued multiple times in 2007–2008, by Big Machine Records. ",
+        "url": "https://en.wikipedia.org/wiki/Taylor_Swift_(album)"
+      },
+      "@id": "kg:/m/03g7rsz",
+      "description": "Studio album by Taylor Swift",
+      "@type": [
+        "MusicAlbum",
+        "Thing"
+      ]
+    },
+    {
+      "@type": [
+        "Movie",
+        "Thing"
+      ],
+      "description": "2023 film",
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://en.wikipedia.org/wiki/Taylor_Swift:_The_Eras_Tour",
+        "articleBody": "Taylor Swift: The Eras Tour is a 2023 American concert film produced by the singer-songwriter Taylor Swift and directed by Sam Wrench. "
+      },
+      "@id": "kg:/g/11v9yyt9jt",
+      "name": "Taylor Swift: The Eras Tour"
+    },
+    {
+      "name": "Fearless",
+      "@type": [
+        "MusicAlbum",
+        "Thing"
+      ],
+      "description": "Studio album by Taylor Swift",
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://en.wikipedia.org/wiki/Fearless_(Taylor_Swift_album)",
+        "articleBody": "Fearless is the second studio album by the American singer-songwriter Taylor Swift. It was released in North America on November 11, 2008, and elsewhere on March 9, 2009, by Big Machine Records. "
+      },
+      "@id": "kg:/m/04glrxj"
+    },
+    {
+      "@id": "kg:/g/11q_49yxhs",
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://en.wikipedia.org/wiki/Fearless_(Taylor's_Version)",
+        "articleBody": "Fearless (Taylor's Version) is the first re-recorded album by the American singer-songwriter Taylor Swift. It was released on April 9, 2021, by Republic Records, as part of Swift's ongoing re-recording project following the 2019 dispute over the master recordings of her back catalog. "
+      },
+      "name": "Fearless (Taylor's Version)",
+      "description": "Album by Taylor Swift",
+      "@type": [
+        "MusicAlbum",
+        "Thing"
+      ]
+    },
+    {
+      "@id": "kg:/g/11y4n57lt5",
+      "detailedDescription": {
+        "articleBody": "Taylor Swift vs Scooter Braun: Bad Blood is a two-part documentary about the feud between Taylor Swift and Scooter Braun which premiered on June 21, 2024. It was released on Max in the U.S., and Discovery+ in the United Kingdom. ",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://en.wikipedia.org/wiki/Taylor_Swift_vs_Scooter_Braun:_Bad_Blood"
+      },
+      "name": "Taylor Swift vs Scooter Braun: Bad Blood",
+      "description": "TV program",
+      "@type": [
+        "Thing",
+        "TVSeries"
+      ]
+    },
+    {
+      "detailedDescription": {
+        "articleBody": "Folklore: The Long Pond Studio Sessions is a 2020 American documentary concert film directed and produced by the American singer-songwriter Taylor Swift, released on Disney+ on November 25, 2020. ",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://en.wikipedia.org/wiki/Folklore:_The_Long_Pond_Studio_Sessions"
+      },
+      "@id": "kg:/g/11mw8jhz61",
+      "description": "2020 film",
+      "@type": [
+        "Thing",
+        "Movie"
+      ],
+      "name": "Folklore: The Long Pond Studio Sessions"
+    },
+    {
+      "description": "Concert tour",
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "The Reputation Stadium Tour was the fifth concert tour and the first stadium tour by the American singer-songwriter Taylor Swift, in support of her sixth studio album, Reputation. ",
+        "url": "https://en.wikipedia.org/wiki/Reputation_Stadium_Tour"
+      },
+      "@type": [
+        "Thing",
+        "Event"
+      ],
+      "name": "Taylor Swift's Reputation Stadium Tour",
+      "@id": "kg:/g/11f2b4sd6k",
+      "image": {
+        "contentUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYQFE-4NMJglqm_CljP9PXemrYM1mykYQoTsZcNK_sqpz6Bf5s",
+        "url": "https://commons.wikimedia.org/wiki/File:Taylor_Swift_performing_Fearless_during_Reputation_Stadium_Tour_-_New_Jersey,_2018.jpg"
+      }
+    },
+    {
+      "name": "Me!",
+      "detailedDescription": {
+        "url": "https://en.wikipedia.org/wiki/Me!",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "\"Me!\" is a song by the American singer-songwriter Taylor Swift featuring Brendon Urie of the American band Panic! at the Disco. It was released on April 26, 2019, as the lead single from Swift's seventh studio album, Lover, by Republic Records. Written by Urie, Swift, and Joel Little, and produced by the latter two, \"Me!\" is an upbeat bubblegum pop and synth-pop track driven by a marching band drumline. It is about embracing one's individuality, self-affirmation, and self-love.\n"
+      },
+      "@type": [
+        "Thing",
+        "MusicComposition"
+      ],
+      "@id": "kg:/g/11h15m15ys",
+      "description": "Song by Brendon Urie and Taylor Swift"
+    }
+  ],
+  "malarze": [
+    {
+      "@id": "kg:/m/0ch5c5m",
+      "@type": [
+        "Thing"
+      ],
+      "description": "Artysta wizualny",
+      "name": "Malarze ze Skagen",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/File:Michael_Ancher_-_A_stroll_on_the_beach_-_Google_Art_Project.jpg",
+        "contentUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs3HHlW9ZlkXusEmnoatXY_Mgj_pvWf3ImAIjdYUXhXNpZywEK"
+      },
+      "detailedDescription": {
+        "articleBody": "Malarze ze Skagen – grupa artystyczna mieszkająca i tworząca pod koniec XIX wieku w Skagen.\nTwórczość grupy to głównie realistyczne malarstwo plenerowe, charakterystyczne dla jej prac jest niuansowe oddawanie odcieni intensywnego światła.\n",
+        "url": "https://pl.wikipedia.org/wiki/Malarze_ze_Skagen",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+      }
+    },
+    {
+      "@type": [
+        "Thing",
+        "MusicRecording"
+      ],
+      "name": "Malarze",
+      "@id": "kg:/m/019jw6t"
+    },
+    {
+      "name": "Malarze",
+      "@id": "kg:/g/11jg31tg61",
+      "@type": [
+        "Thing",
+        "MusicRecording"
+      ]
+    },
+    {
+      "@id": "kg:/g/1q5jzpbt9",
+      "name": "Malarze",
+      "@type": [
+        "Thing"
+      ]
+    },
+    {
+      "description": "Utwór: Bułat Okudżawa",
+      "name": "Malarze",
+      "@type": [
+        "Thing"
+      ],
+      "@id": "kg:/g/1q5j2xv82"
+    },
+    {
+      "@type": [
+        "Thing"
+      ],
+      "@id": "kg:/g/11ftzmnbd9",
+      "name": "Malarze"
+    },
+    {
+      "@id": "kg:/g/11jg2vfl50",
+      "@type": [
+        "MusicRecording",
+        "Thing"
+      ],
+      "name": "Malarze"
+    },
+    {
+      "name": "Malarze",
+      "@type": [
+        "Thing",
+        "MusicRecording"
+      ],
+      "@id": "kg:/g/11jp2qzpdd"
+    },
+    {
+      "name": "Malarze",
+      "@id": "kg:/g/11hg5r10qs",
+      "@type": [
+        "MusicRecording",
+        "Thing"
+      ]
+    },
+    {
+      "name": "Malarze",
+      "@id": "kg:/g/11ffv2kdz9",
+      "@type": [
+        "Thing"
+      ]
+    }
+  ],
+  "Limanowa": [
+    {
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/File:Limanowa_a1.jpg",
+        "contentUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuV5LM9jIspNpLpTfz7xNC1eWw0TPgrWqBgr8xfeWRT1shiwU4"
+      },
+      "@id": "kg:/m/05dp3t",
+      "url": "http://miasto.limanowa.pl/",
+      "name": "Limanowa",
+      "detailedDescription": {
+        "url": "https://pl.wikipedia.org/wiki/Limanowa",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Limanowa – miasto w południowej Polsce, w województwie małopolskim, siedziba powiatu limanowskiego oraz gminy wiejskiej Limanowa."
+      },
+      "@type": [
+        "AdministrativeArea",
+        "City",
+        "Thing",
+        "Place"
+      ],
+      "description": "Miasto w Polsce"
+    },
+    {
+      "@id": "kg:/m/03h25pn",
+      "@type": [
+        "Place",
+        "Thing"
+      ],
+      "url": "http://www.ug.limanowa.pl/",
+      "detailedDescription": {
+        "articleBody": "Limanowa – gmina wiejska w Polsce położona w województwie małopolskim, w powiecie limanowskim. W latach 1975–1998 gmina administracyjnie należała do województwa nowosądeckiego.\nSiedziba gminy to Limanowa. Na terenie gminy znajdują się liczne ośrodki agroturystyczne.\nWedług danych z 31 grudnia 2005 gminę zamieszkiwało 22 756 osób. Natomiast według danych z 31 grudnia 2017 roku gminę zamieszkiwało 25 380 osób.",
+        "url": "https://pl.wikipedia.org/wiki/Limanowa_(gmina_wiejska)",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+      },
+      "name": "Limanowa",
+      "image": {
+        "url": "https://en.wikipedia.org/wiki/Gmina_Limanowa",
+        "contentUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWzm4QqGLCUZ7XLpOcONs0gCGu_Hryu4FJNn2HDR8qxUCZIXfl"
+      }
+    },
+    {
+      "name": "Limanovia Limanowa",
+      "@type": [
+        "Organization",
+        "Thing",
+        "SportsTeam"
+      ],
+      "description": "Klub piłkarski",
+      "@id": "kg:/m/012blfmz",
+      "detailedDescription": {
+        "url": "https://pl.wikipedia.org/wiki/Limanovia_Limanowa",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Limanovia Limanowa — polski klub piłkarski z siedzibą w Limanowej, utworzony w 1924 roku. Występuje w IV lidze, gr. małopolskiej."
+      }
+    },
+    {
+      "detailedDescription": {
+        "url": "https://pl.wikipedia.org/wiki/Powiat_limanowski",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Powiat limanowski – powiat w Polsce, utworzony w 1999 roku w ramach reformy administracyjnej. Jego siedzibą jest miasto Limanowa, a ogółem liczy sobie 171 miejscowości 91 sołectw. "
+      },
+      "image": {
+        "url": "https://en.wikipedia.org/wiki/Limanowa_County",
+        "contentUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCX2qRU_Df4HXF1jK3uxk4hIEkxVGLksdoha-LoKVU_TzA0Mwy"
+      },
+      "@id": "kg:/m/0h1djv",
+      "@type": [
+        "Place",
+        "Thing"
+      ],
+      "url": "http://www.limanowa.pl/",
+      "name": "Powiat limanowski"
+    },
+    {
+      "@id": "kg:/g/11bwf5wrrg",
+      "description": "Góra w Polsce",
+      "@type": [
+        "TouristAttraction",
+        "Thing",
+        "Place"
+      ],
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Miejska Góra – góra wznosząca się ponad miastem Limanowa w województwie małopolskim, w powiecie limanowskim. Wraz z sąsiednią Łysą Górą, od której oddzielona jest płytką przełęczą, wchodzi w skład Pasma Łososińskiego w Beskidzie Wyspowym. ",
+        "url": "https://pl.wikipedia.org/wiki/Miejska_G%C3%B3ra_(Limanowa)"
+      },
+      "name": "Miejska Góra",
+      "image": {
+        "url": "https://pl.wikipedia.org/wiki/Miejska_G%C3%B3ra_(Limanowa)",
+        "contentUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6CG3aKjJoS46s7xXGZmJpv0aSOCuL8MEnEv2Ev78MpFwLSpGy"
+      }
+    },
+    {
+      "detailedDescription": {
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Limanowa – miasto w województwie małopolskim, powiecie limanowskim\nLimanowa – gmina wiejska w województwie małopolskim, w powiecie limanowskim\nLimanowa – dawna gromada w powiecie limanowskim w województwie krakowskim\nLimanowa – stacja kolejowa w Limanowej, w województwie małopolskim",
+        "url": "https://pl.wikipedia.org/wiki/Limanowa_(ujednoznacznienie)"
+      },
+      "@id": "kg:/g/11c5t342mc",
+      "name": "Limanowa"
+    },
+    {
+      "detailedDescription": {
+        "url": "https://pl.wikipedia.org/wiki/Limanowa_(gromada)",
+        "articleBody": "Limanowa – dawna gromada, czyli najmniejsza jednostka podziału terytorialnego Polskiej Rzeczypospolitej Ludowej w latach 1954–1972.\n",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+      },
+      "@id": "kg:/g/11mvrn66n",
+      "@type": [
+        "Thing"
+      ],
+      "name": "Limanowa"
+    },
+    {
+      "image": {
+        "contentUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAlPhZdFvFwLeFg2hBA6KQbCRS0S2jI_Xd7ef5zxgi9gX1gGUi",
+        "url": "https://en.wikipedia.org/wiki/Por%C4%99ba_Wielka,_Limanowa_County"
+      },
+      "detailedDescription": {
+        "articleBody": "Poręba Wielka – wieś w Polsce, położona w województwie małopolskim, w powiecie limanowskim, w gminie Niedźwiedź, w Gorcach. Wieś jest siedzibą Gorczańskiego Parku Narodowego.",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "url": "https://pl.wikipedia.org/wiki/Por%C4%99ba_Wielka_(powiat_limanowski)"
+      },
+      "description": "Wieś w Polsce",
+      "@id": "kg:/m/04jmr1j",
+      "name": "Poręba Wielka",
+      "@type": [
+        "Place",
+        "Thing",
+        "City"
+      ]
+    },
+    {
+      "@type": [
+        "City",
+        "Thing",
+        "Place"
+      ],
+      "detailedDescription": {
+        "url": "https://pl.wikipedia.org/wiki/Laskowa_(powiat_limanowski)",
+        "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+        "articleBody": "Laskowa – rozległa wieś w Polsce, położona w województwie małopolskim, w powiecie limanowskim, w gminie Laskowa, której jest siedzibą.\nW latach 1975–1998 miejscowość administracyjnie należała do województwa nowosądeckiego."
+      },
+      "@id": "kg:/m/04j9j4x",
+      "description": "Wieś w Polsce",
+      "name": "Laskowa",
+      "image": {
+        "contentUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl4RNGUidS_97rkqqH9ZewGjkxLPVigjNo0YItaWGZgI-4rC53",
+        "url": "https://pl.wikipedia.org/wiki/Plik:Laskowa_a1.jpg"
+      }
+    }
+  ]
+}
