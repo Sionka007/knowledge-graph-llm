@@ -1,6 +1,5 @@
 #app.py
 import streamlit as st
-import streamlit as st
 from kg_api import get_knowledge_graph_list
 from llm_utils import extract_entities_from_question
 from cache import get_cached_result, set_cached_result
